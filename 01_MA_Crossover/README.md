@@ -21,7 +21,7 @@ This project is part of a professional Expert Advisor portfolio covering breakou
 ## Demo Code
 A simplified public demo of the signal logic is available here:
 
-- [demo_signal_logic.mq4](./demo_signal_logic.mq4)
+- [demo_signal_logic.mq4](./demo_signal_logic_MA_CROSS.mq4)
 
 Compilable MQL4 demo signal logic included for portfolio verification.
 
