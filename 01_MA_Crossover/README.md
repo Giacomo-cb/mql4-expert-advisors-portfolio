@@ -18,3 +18,5 @@ It includes spread checks, safe order execution, and modular trade management.
 
 ## Portfolio Notes
 This project is part of a professional Expert Advisor portfolio covering breakout, RSI, session, and basket/grid strategies.
+## Screenshot
+![MA Crossover Example](EA movign average screen.png)
