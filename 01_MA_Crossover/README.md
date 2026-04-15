@@ -23,7 +23,10 @@ A simplified public demo of the signal logic is available here:
 
 - [demo_signal_logic.mq4](./demo_signal_logic_MA_CROSS.mq4)
 
-Compilable MQL4 demo signal logic included for portfolio verification.
+This repository includes a compilable MQL4 signal-logic demo for technical portfolio verification.
+
+Chart visualization, visual overlays, and the complete execution framework are intentionally excluded from the public demo version.
+
 
 ## Screenshot
 ![MA Crossover Example](EA_movign_average_screen.png)
