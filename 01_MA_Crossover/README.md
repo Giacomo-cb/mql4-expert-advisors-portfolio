@@ -18,5 +18,12 @@ It includes spread checks, safe order execution, and modular trade management.
 
 ## Portfolio Notes
 This project is part of a professional Expert Advisor portfolio covering breakout, RSI, session, and basket/grid strategies.
+## Demo Code
+A simplified public demo of the signal logic is available here:
+
+- [demo_signal_logic.mq4](./demo_signal_logic.mq4)
+
+Compilable MQL4 demo signal logic included for portfolio verification.
+
 ## Screenshot
 ![MA Crossover Example](EA_movign_average_screen.png)
