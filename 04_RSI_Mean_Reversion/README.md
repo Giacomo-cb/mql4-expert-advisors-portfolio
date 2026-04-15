@@ -21,5 +21,14 @@ The strategy supports optional trend bias filtering, ATR-based volatility protec
 ## Portfolio Notes
 This project is part of a professional Expert Advisor portfolio covering moving average crossover, breakout levels, Asian session breakout, and basket/grid systems.
 
+## Demo Code
+A simplified public demo of the RSI signal logic is available here:
+
+- [demo_signal_logic.mq4](./demo_signal_logic_RSI_MEAN_REVERSION.mq4)
+
+This repository includes a compilable MQL4 mean-reversion demo for technical portfolio verification.
+
+The chart visualization shown below belongs to the full production version and is intentionally excluded from the public demo source.
+
 ## Screenshot
 ![RSI Mean Reversion Example](rsi-mean-reversion-example.png)
