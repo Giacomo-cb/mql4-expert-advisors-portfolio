@@ -21,5 +21,14 @@ The architecture supports spread filtering, safe execution, and reusable level-b
 ## Portfolio Notes
 This project is part of a professional Expert Advisor portfolio covering moving average crossover, session breakout, RSI mean reversion, and basket/grid systems.
 
+## Demo Code
+A simplified public demo of the breakout signal logic is available here:
+
+- [demo_signal_logic.mq4](./demo_signal_logic_RANGE_BREAKOUT.mq4)
+
+This repository includes a compilable MQL4 breakout-logic demo for technical portfolio verification.
+
+The chart visualization shown below belongs to the full production version and is intentionally excluded from the public demo source.
+
 ## Screenshot
 ![Range Breakout Example](range-breakout-example.png)
