@@ -2,7 +2,7 @@
 
 Professional MT4/MT5 Expert Advisor based on fast and slow moving average crossover logic.
 
-##Platforms: MQL4 / MQL5
+Platforms: MQL4 / MQL5
 Status:
 - MQL4: original implementation
 - MQL5: refactored using shared framework
