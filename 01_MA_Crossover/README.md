@@ -44,5 +44,8 @@ This Expert Advisor has been refactored into MQL5 using a shared framework desig
 
 The chart visualization shown below belongs to the full production version and is intentionally excluded from the public demo source.
 
-## Screenshot
+## Screenshot MQL4
 ![MA Crossover Example](EA_movign_average_screen.png)
+
+## Screenshot MQL5
+![MA Crossover Example](ma_crossover_screen_MQL5.png)
