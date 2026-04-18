@@ -2,6 +2,11 @@
 
 Professional MT4/MT5 Expert Advisor designed to trade breakout movements from dynamically calculated intraday range levels.
 
+Platforms: MQL4 / MQL5
+Status:
+- MQL4: original implementation
+- MQL5: refactored using shared framework
+
 ## Features
 - automatic high/low range detection
 - breakout buy and sell entries
@@ -28,7 +33,17 @@ A simplified public demo of the breakout signal logic is available here:
 
 This repository includes a compilable MQL4 breakout-logic demo for technical portfolio verification.
 
+## MQL5 Version
+
+This Expert Advisor has been refactored into MQL5 using a shared framework designed for:
+
+- safer order execution (CTrade)
+- broker stop-level handling
+- consistent position tracking (Magic Number + Symbol)
+- modular structure separating signal, execution, and management
+- improved robustness compared to the original MQL4 version
+
 The chart visualization shown below belongs to the full production version and is intentionally excluded from the public demo source.
 
-## Screenshot
+## Screenshot MQL4
 ![Range Breakout Example](range-breakout-example.png)
