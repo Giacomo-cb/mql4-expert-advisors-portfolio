@@ -47,3 +47,6 @@ The chart visualization shown below belongs to the full production version and i
 
 ## Screenshot MQL4
 ![Range Breakout Example](range-breakout-example.png)
+
+## Screenshot MQL5
+![Range Breakout Example](range_breakout_screen_MQL5.png)
