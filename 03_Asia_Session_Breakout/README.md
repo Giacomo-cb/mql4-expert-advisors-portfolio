@@ -121,7 +121,7 @@ The MQL5 version leverages a reusable framework shared across all EAs in this po
 
 ### MQL4 Example
 
-![MQL4 Example](./images/asian-session-breakout-example.png)
+![MQL4 Example](./asian-session-breakout-example.png)
 
 ### MQL5 Version
 
