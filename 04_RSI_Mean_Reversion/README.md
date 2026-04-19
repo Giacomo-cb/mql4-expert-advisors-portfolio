@@ -99,7 +99,7 @@ The MQL5 version leverages a reusable framework shared across all EAs in this po
 
 ### MQL4 Example
 
-![MQL4 Example](./images/example.png)
+![MQL4 Example](./rsi-mean-reversion-example.png.png)
 
 ### MQL5 Version
 
