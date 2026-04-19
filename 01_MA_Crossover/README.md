@@ -46,7 +46,7 @@ Optional filters and confirmations can be applied before opening trades.
 
 This repository includes a simplified demo version focused on signal logic:
 
-*  [demo_signal_logic.mq4](./demo_signal_logic_MA_CROSS.mq4)
+* [`demo_signal_logic_MA_CROSS.mq4`](./demo_signal_logic_MA_CROSS.mq4)
 
 The demo version illustrates how crossover conditions are detected, without including full trade management and execution logic.
 
@@ -109,3 +109,6 @@ The full version may include additional:
 
 This software is for educational and demonstration purposes only.
 Trading involves risk, and past performance does not guarantee future results.
+
+
+
