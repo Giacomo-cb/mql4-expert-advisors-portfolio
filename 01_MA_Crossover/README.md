@@ -85,11 +85,11 @@ The MQL5 version is built on a reusable framework shared across the portfolio:
 
 ### MQL4 Example
 
-![MQL4 Example](./images/example.png)
+![MA Crossover Example](EA_movign_average_screen.png)
 
 ### MQL5 Version
 
-![MQL5 Example](./images/example_mql5.png)
+![MA Crossover Example](ma_crossover_screen_MQL5.png)
 
 ---
 
