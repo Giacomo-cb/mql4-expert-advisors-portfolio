@@ -103,7 +103,7 @@ The MQL5 version leverages a reusable framework shared across all EAs in this po
 
 ### MQL5 Version
 
-![MQL5 Example](./RSI_signal.png)
+![MQL5 Example](./RSI_signals.png)
 
 ---
 
